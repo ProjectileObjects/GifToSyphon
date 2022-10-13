@@ -37,7 +37,7 @@
 
 //	note- this is the public API key, replace with your own in production code
 //	especially if you don't want rate limits
-#define GIFToSyphonGiphyAPIKey @"dc6zaTOxFJmzC"
+#define GIFToSyphonGiphyAPIKey @"SEE9zVO1sLNkkZ9F03KEruACI5d5D1S9"
 
 
 
